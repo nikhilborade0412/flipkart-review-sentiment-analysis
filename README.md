@@ -128,8 +128,8 @@ The Streamlit web application includes:
 - Text area for entering product reviews  
 - Center-aligned prediction button  
 - Emoji-based sentiment output  
-  - 😄😊🎉 Positive Review  
-  - 😢😞💔 Negative Review  
+  -  Positive Review  
+  -  Negative Review  
 - Clean, responsive, and user-friendly interface  
 
 ---

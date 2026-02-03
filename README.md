@@ -77,6 +77,9 @@ Sentiment analysis project/
 ├── model_building/
 │   └── model_building.py       # Model training & evaluation
 │
+├── notebook/
+|   └── Sentiment Analysis (EDA & Data Preprocessing).ipynb
+|
 ├── pkl/
 │   ├── sentiment_model.pkl
 │   └── tfidf_vectorizer.pkl

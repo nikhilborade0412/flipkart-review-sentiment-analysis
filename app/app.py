@@ -46,13 +46,16 @@ st.markdown(
 )
 
 
-user_review = st.text_area("Enter a product review:")
+review = st.text_area(
+    "✍️ Enter a product review:",
+    placeholder="Example: The product quality is excellent and delivery was super fast!"
+)
 
-if st.button("Predict Sentiment"):
-    if user_review.strip() == "":
-        st.warning("⚠️ Please enter a review.")
+if st.button("🚀 Predict Sentiment"):
+    if review.strip() == "":
+        st.warning("⚠️ Please enter a review to analyze.")
     else:
-        cleaned = clean_review(user_review)
+        cleaned = clean_review(review)
         vectorized = tfidf.transform([cleaned])
         prediction = model.predict(vectorized)[0]
 

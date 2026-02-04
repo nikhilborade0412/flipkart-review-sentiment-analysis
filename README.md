@@ -33,8 +33,7 @@ This project classifies reviews into **Positive** or **Negative** sentiments and
 ---
 <h2><a class="anchor" id="application-preview"></a>Application Preview</h2>
 
-![App Screenshot]([images/app.png](https://github.com/nikhilborade0412/flipkart-review-sentiment-analysis/blob/main/images/app.png))
-
+![App Screenshot](https://github.com/nikhilborade0412/flipkart-review-sentiment-analysis/blob/main/images/app.png)
 
 ---
 <h2><a class="anchor" id="business-objective"></a>Business Objective</h2>

@@ -6,6 +6,7 @@ _Analyzing customer sentiment from Flipkart product reviews using NLP, Machine L
 
 ## 📌 Table of Contents
 - <a href="#overview">Overview</a>
+- <a href="#application-preview">Application Preview</a>
 - <a href="#business-objective">Business Objective</a>
 - <a href="#dataset">Dataset</a>
 - <a href="#tools--technologies">Tools & Technologies</a>
@@ -30,7 +31,11 @@ The **Flipkart Review Sentiment Analysis Project** focuses on understanding cust
 This project classifies reviews into **Positive** or **Negative** sentiments and provides real-time predictions through an interactive **Streamlit web application**, helping businesses quickly assess customer feedback at scale.
 
 ---
+<h2><a class="anchor" id="application-preview"></a>Application Preview</h2>
+![App Screenshot](images/app.png)
 
+
+---
 <h2><a class="anchor" id="business-objective"></a>Business Objective</h2>
 
 The primary objectives of this project are to:

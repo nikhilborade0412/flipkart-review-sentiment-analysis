@@ -50,7 +50,7 @@ The primary objectives of this project are to:
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
 - **Dataset Name:** Flipkart Product Reviews Dataset  
-- **Records:** 20,000+ reviews  
+- **Records:** 8,508 reviews  
 - **Columns:** Review Text, Sentiment Label, Product Metadata  
 - **Source:** Public e-commerce review dataset  
 - **Target Variable:** Sentiment (Positive / Negative)

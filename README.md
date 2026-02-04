@@ -33,6 +33,7 @@ This project classifies reviews into **Positive** or **Negative** sentiments and
 ---
 <h2><a class="anchor" id="application-preview"></a>Application Preview</h2>
 
+[Live Demo](http://13.126.219.228:8501/)
 ![App Screenshot](https://github.com/nikhilborade0412/flipkart-review-sentiment-analysis/blob/main/images/app.png)
 
 ---

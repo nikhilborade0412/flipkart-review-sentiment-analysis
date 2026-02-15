@@ -221,7 +221,7 @@ streamlit run app/app.py
 Aspiring Data Scientist | ML | NLP | GenAI
 
 🔗 GitHub: [https://github.com/nikhilborade0412](https://github.com/nikhilborade0412)
-🔗 LinkedIn: [https://www.linkedin.com/in/nikhilborade](https://www.linkedin.com/in/nikhilborade)
+🔗 LinkedIn: [https://www.linkedin.com/in/nikhilborade](https://www.linkedin.com/in/nikhilborade0412)
 
 ---
 
